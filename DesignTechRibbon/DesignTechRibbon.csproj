@@ -34,12 +34,16 @@
     <Reference Include="PresentationCore" />
     <Reference Include="RevitAPI">
       <HintPath>..\..\..\..\..\..\..\..\..\Program Files\Autodesk\Revit 2017\RevitAPI.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="RevitAPIUI">
       <HintPath>..\..\..\..\..\..\..\..\..\Program Files\Autodesk\Revit 2017\RevitAPIUI.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -49,6 +53,20 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App.cs" />
+    <Compile Include="Revit\EssentialTools\Filters\RemoveFilter.cs" />
+    <Compile Include="Revit\EssentialTools\Filters\FiltersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Revit\EssentialTools\Filters\FiltersForm.designer.cs">
+      <DependentUpon>FiltersForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Revit\EssentialTools\View Templates\RemoveTemplates.cs" />
+    <Compile Include="Revit\EssentialTools\View Templates\TemplatesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Revit\EssentialTools\View Templates\TemplatesForm.designer.cs">
+      <DependentUpon>TemplatesForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Revit\Tools\PipingTotalLength.cs" />
     <Compile Include="Revit\Tools\FramingTotalLength.cs" />
     <Compile Include="Revit\Tools\CurveTotalLength.cs" />
@@ -59,6 +77,8 @@
     <Content Include="DesignTechRibbon.addin">
       <SubType>Designer</SubType>
     </Content>
+    <Resource Include="Resources\EssentialTools\RemoveFiltersPlaceholder.png" />
+    <Resource Include="Resources\EssentialTools\RemoveTemplatesPlaceholder.png" />
     <Resource Include="Resources\PipingTotalLength.png" />
     <Resource Include="Resources\FramingTotalLength.png" />
   </ItemGroup>
@@ -70,10 +90,18 @@
     <Resource Include="Resources\CurveTotalLength.png" />
     <Resource Include="Resources\WallTotalLength.png" />
   </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Revit\EssentialTools\Filters\FiltersForm.resx">
+      <DependentUpon>FiltersForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Revit\EssentialTools\View Templates\TemplatesForm.resx">
+      <DependentUpon>TemplatesForm.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
-    <PostBuildEvent>
-    </PostBuildEvent>
+    <PostBuildEvent>copy "$(ProjectDir)DesignTechRibbon.addin" "$(AppData)\Autodesk\REVIT\Addins\2017"
+copy "$(ProjectDir)bin\Debug\designtech.bundle\DesignTechRibbon.dll" "$(AppData)\Autodesk\REVIT\Addins\2017"</PostBuildEvent>
   </PropertyGroup>
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

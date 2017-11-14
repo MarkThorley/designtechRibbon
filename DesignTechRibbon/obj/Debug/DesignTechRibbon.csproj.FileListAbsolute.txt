@@ -570,3 +570,13 @@ C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visu
 C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\obj\Debug\DesignTechRibbon.csproj.CoreCompileInputs.cache
 C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\obj\Debug\DesignTechRibbon.dll
 C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\obj\Debug\DesignTechRibbon.pdb
+C:\Users\dn\source\repos\designtechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\DesignTechRibbon.dll
+C:\Users\dn\source\repos\designtechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\DesignTechRibbon.pdb
+C:\Users\dn\source\repos\designtechRibbon\DesignTechRibbon\obj\Debug\DesignTechRibbon.csprojResolveAssemblyReference.cache
+C:\Users\dn\source\repos\designtechRibbon\DesignTechRibbon\obj\Debug\DesignTechRibbon.g.resources
+C:\Users\dn\source\repos\designtechRibbon\DesignTechRibbon\obj\Debug\DesignTechRibbon.csproj.CoreCompileInputs.cache
+C:\Users\dn\source\repos\designtechRibbon\DesignTechRibbon\obj\Debug\DesignTechRibbon.dll
+C:\Users\dn\source\repos\designtechRibbon\DesignTechRibbon\obj\Debug\DesignTechRibbon.pdb
+C:\Users\dn\source\repos\designtechRibbon\DesignTechRibbon\obj\Debug\EssentialTools.TemplatesForm.resources
+C:\Users\dn\source\repos\designtechRibbon\DesignTechRibbon\obj\Debug\DesignTechRibbon.csproj.GenerateResource.Cache
+C:\Users\dn\source\repos\designtechRibbon\DesignTechRibbon\obj\Debug\EssentialTools.FiltersForm.resources

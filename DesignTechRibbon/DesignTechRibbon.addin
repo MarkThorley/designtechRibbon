@@ -3,7 +3,7 @@
   <AddIn Type="Application">
     <Name>Totals</Name>
     <Assembly>DesignTechRibbon.dll</Assembly>
-    <AddInId>604b1052-f742-4951-8576-c261d1993108</AddInId>
+    <AddInId>6f58c367-a16c-4886-b768-334389fce350</AddInId>
     <FullClassName>DesignTechRibbon.App</FullClassName>
     <VendorId>designtech.io</VendorId>
     <VendorDescription>designtech.io</VendorDescription>

@@ -21,10 +21,19 @@ namespace DesignTechRibbon
             application.CreateRibbonTab(tabName);
 
             // Add a new ribbon panel
-            RibbonPanel ribbonPanel = application.CreateRibbonPanel(tabName, "Tools");
+            RibbonPanel ribbonPanel1 = application.CreateRibbonPanel(tabName, "Tools");
+            RibbonPanel ribbonPanel2 = application.CreateRibbonPanel(tabName, "View Templates");
+            RibbonPanel ribbonPanel3 = application.CreateRibbonPanel(tabName, "Filters");
 
             // Get dll assembly path
             string thisAssemblyPath = Assembly.GetExecutingAssembly().Location;
+
+            //Create RemoveViewTemplates button
+            CreatePushButton(ribbonPanel2, String.Format("Removes" + Environment.NewLine + "View Templates"), thisAssemblyPath, "EssentialTools.CommandRemoveTemplates",
+                "Remove used or unused View Templates in bulk.", "EssentialTools/RemoveTemplatesPlaceholder.png");
+            //Create RemoveFilters button
+            CreatePushButton(ribbonPanel3, String.Format("Removes" + Environment.NewLine + "Filters"), thisAssemblyPath, "EssentialTools.CommandRemoveFilters",
+                "Remove used or unused Filters in bulk.", "EssentialTools/RemoveFiltersPlaceholder.png");
 
             //Create push buttons for split drop down
             PushButtonData bOne = new PushButtonData(
@@ -56,13 +65,34 @@ namespace DesignTechRibbon
             bFour.LargeImage = new BitmapImage(new Uri(@"pack://application:,,,/DesignTechRibbon;component/Resources/PipingTotalLength.png"));
 
             SplitButtonData sb1 = new SplitButtonData("splitButton1", "Split");
-            SplitButton sb = ribbonPanel.AddItem(sb1) as SplitButton;
+            SplitButton sb = ribbonPanel1.AddItem(sb1) as SplitButton;
             sb.AddPushButton(bOne);
             sb.AddPushButton(bTwo);
             sb.AddPushButton(bThree);
             sb.AddPushButton(bFour);
         }
+        /// <summary>
+        /// A method that allows you to create a Push Button with greater ease
+        /// </summary>
+        /// <param name="ribbonPanel"></param>
+        /// <param name="name"></param>
+        /// <param name="path"></param>
+        /// <param name="command"></param>
+        /// <param name="tooltip"></param>
+        /// <param name="icon"></param>
+        private static void CreatePushButton(RibbonPanel ribbonPanel, string name, string path, string command, string tooltip, string icon)
+        {
+            PushButtonData pbData = new PushButtonData(
+                name,
+                name,
+                path,
+                command);
 
+            PushButton pb = ribbonPanel.AddItem(pbData) as PushButton;
+            pb.ToolTip = tooltip;
+            BitmapImage pb2Image = new BitmapImage(new Uri(String.Format("pack://application:,,,/DesignTechRibbon;component/Resources/{0}", icon)));
+            pb.LargeImage = pb2Image;
+        }
         public Result OnShutdown(UIControlledApplication application)
         {
             // Do nothing
