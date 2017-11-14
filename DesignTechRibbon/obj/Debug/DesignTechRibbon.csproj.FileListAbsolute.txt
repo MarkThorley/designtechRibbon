@@ -1,0 +1,572 @@
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\obj\Debug\DesignTechRibbon.csprojResolveAssemblyReference.cache
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\obj\Debug\DesignTechRibbon.g.resources
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\DesignTechRibbon.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\DesignTechRibbon.pdb
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\DSCoreNodes.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ProtoGeometry.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\RevitAPI.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\RevitAPIUI.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\DynamoServices.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\DynamoCore.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\LibG.Interface.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\RevitAPIFoundation.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\RevitDBAPI.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\UtilityAPI.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\APIDBAPI.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\GraphicsAPI.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ElementGroupDBAPI.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\EssentialsDBAPI.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\GeomUtilAPI.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\FamilyDBAPI.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\DetailDBAPI.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\CurtainGridFamilyDBAPI.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ArrayElemsDBAPI.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\EnergyAnalysisDBAPI.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\BuildingSystemsDBAPI.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\HostObjDBAPI.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\RoomAreaPlanDBAPI.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\SiteDBAPI.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\SculptingDBAPI.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\StructuralDBAPI.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\InterfaceAPI.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\InterfaceUtilAPI.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\RebarDBAPI.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\StructuralAnalysisDBAPI.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\MassingDBAPI.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\AssemblyDBAPI.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\DPartDBAPI.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\NumberingDBAPI.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\PointCloudAccessAPI.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\StairRampDBAPI.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\AnalysisAppsDBAPI.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\DBManagedServices.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\AdWindows.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\RevitAddInUtility.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\APIInterop.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\UIFramework.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\AddInManager.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\RevitUIAPI.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\BuildingSystemsUIAPI.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\DesktopMFCAPI.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\APIUIAPI.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\RevitMFCAPI.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\EssentialsUIAPI.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\DetailUIAPI.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\UIFrameworkServices.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ProtoCore.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\Greg.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\DynamoUtilities.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\Newtonsoft.Json.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ProtoScript.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\GraphLayout.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\Analytics.NET.Google.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ProtoAssociative.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ProtoImperative.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\DynamoUnits.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ManagedMC3.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\RestSharp.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\Ionic.Zip.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\CSharpAnalytics.Net45.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\RevitAPI.xml
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\RevitAPIUI.xml
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\cs-CZ\DSCoreNodes.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\de-DE\DSCoreNodes.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\en-US\DSCoreNodes.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\es-ES\DSCoreNodes.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\fr-FR\DSCoreNodes.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\it-IT\DSCoreNodes.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ja-JP\DSCoreNodes.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ko-KR\DSCoreNodes.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\pl-PL\DSCoreNodes.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\pt-BR\DSCoreNodes.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ru-RU\DSCoreNodes.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\zh-CN\DSCoreNodes.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\zh-TW\DSCoreNodes.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\cs-CZ\ProtoGeometry.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\de-DE\ProtoGeometry.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\en-US\ProtoGeometry.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\es-ES\ProtoGeometry.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\fr-FR\ProtoGeometry.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\it-IT\ProtoGeometry.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ja-JP\ProtoGeometry.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ko-KR\ProtoGeometry.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\pl-PL\ProtoGeometry.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\pt-BR\ProtoGeometry.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ru-RU\ProtoGeometry.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\zh-CN\ProtoGeometry.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\zh-TW\ProtoGeometry.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\cs-CZ\DynamoCore.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\de-DE\DynamoCore.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\en-US\DynamoCore.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\es-ES\DynamoCore.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\fr-FR\DynamoCore.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\it-IT\DynamoCore.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ja-JP\DynamoCore.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ko-KR\DynamoCore.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\pl-PL\DynamoCore.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\pt-BR\DynamoCore.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ru-RU\DynamoCore.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\zh-CN\DynamoCore.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\zh-TW\DynamoCore.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\cs-CZ\AdWindows.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\de-DE\AdWindows.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\es-ES\AdWindows.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\fr-FR\AdWindows.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\it-IT\AdWindows.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ja-JP\AdWindows.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ko-KR\AdWindows.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\pl-PL\AdWindows.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\pt-BR\AdWindows.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ru-RU\AdWindows.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\zh-CN\AdWindows.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\zh-TW\AdWindows.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\cs-CZ\ProtoCore.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\de-DE\ProtoCore.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\en-US\ProtoCore.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\es-ES\ProtoCore.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\fr-FR\ProtoCore.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\it-IT\ProtoCore.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ja-JP\ProtoCore.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ko-KR\ProtoCore.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\pl-PL\ProtoCore.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\pt-BR\ProtoCore.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ru-RU\ProtoCore.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\zh-CN\ProtoCore.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\zh-TW\ProtoCore.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\cs-CZ\ProtoAssociative.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\de-DE\ProtoAssociative.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\en-US\ProtoAssociative.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\es-ES\ProtoAssociative.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\fr-FR\ProtoAssociative.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\it-IT\ProtoAssociative.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ja-JP\ProtoAssociative.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ko-KR\ProtoAssociative.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\pl-PL\ProtoAssociative.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\pt-BR\ProtoAssociative.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ru-RU\ProtoAssociative.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\zh-CN\ProtoAssociative.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\zh-TW\ProtoAssociative.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\cs-CZ\ProtoImperative.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\de-DE\ProtoImperative.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\en-US\ProtoImperative.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\es-ES\ProtoImperative.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\fr-FR\ProtoImperative.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\it-IT\ProtoImperative.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ja-JP\ProtoImperative.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ko-KR\ProtoImperative.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\pl-PL\ProtoImperative.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\pt-BR\ProtoImperative.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ru-RU\ProtoImperative.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\zh-CN\ProtoImperative.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\zh-TW\ProtoImperative.resources.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\obj\Debug\DesignTechRibbon.dll
+C:\Users\markt\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\obj\Debug\DesignTechRibbon.pdb
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\DesignTechRibbon.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\DesignTechRibbon.pdb
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\DSCoreNodes.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ProtoGeometry.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\RevitAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\RevitAPIUI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\DynamoServices.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\DynamoCore.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\LibG.Interface.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\RevitAPIFoundation.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\RevitDBAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\UtilityAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\APIDBAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\GraphicsAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ElementGroupDBAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\EssentialsDBAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\GeomUtilAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\FamilyDBAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\DetailDBAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\CurtainGridFamilyDBAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ArrayElemsDBAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\EnergyAnalysisDBAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\BuildingSystemsDBAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\HostObjDBAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\RoomAreaPlanDBAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\SiteDBAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\SculptingDBAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\StructuralDBAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\InterfaceAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\InterfaceUtilAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\RebarDBAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\StructuralAnalysisDBAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\MassingDBAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\AssemblyDBAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\DPartDBAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\NumberingDBAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\PointCloudAccessAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\StairRampDBAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\AnalysisAppsDBAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\DBManagedServices.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\AdWindows.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\RevitAddInUtility.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\APIInterop.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\UIFramework.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\AddInManager.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\RevitUIAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\BuildingSystemsUIAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\DesktopMFCAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\APIUIAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\RevitMFCAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\EssentialsUIAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\DetailUIAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\UIFrameworkServices.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ProtoCore.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\Greg.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\DynamoUtilities.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\Newtonsoft.Json.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ProtoScript.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\GraphLayout.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\Analytics.NET.Google.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ProtoAssociative.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ProtoImperative.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\DynamoUnits.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ManagedMC3.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\RestSharp.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\Ionic.Zip.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\CSharpAnalytics.Net45.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\RevitAPI.xml
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\RevitAPIUI.xml
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\cs-CZ\DSCoreNodes.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\de-DE\DSCoreNodes.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\en-US\DSCoreNodes.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\es-ES\DSCoreNodes.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\fr-FR\DSCoreNodes.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\it-IT\DSCoreNodes.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ja-JP\DSCoreNodes.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ko-KR\DSCoreNodes.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\pl-PL\DSCoreNodes.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\pt-BR\DSCoreNodes.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ru-RU\DSCoreNodes.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\zh-CN\DSCoreNodes.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\zh-TW\DSCoreNodes.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\cs-CZ\ProtoGeometry.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\de-DE\ProtoGeometry.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\en-US\ProtoGeometry.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\es-ES\ProtoGeometry.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\fr-FR\ProtoGeometry.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\it-IT\ProtoGeometry.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ja-JP\ProtoGeometry.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ko-KR\ProtoGeometry.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\pl-PL\ProtoGeometry.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\pt-BR\ProtoGeometry.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ru-RU\ProtoGeometry.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\zh-CN\ProtoGeometry.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\zh-TW\ProtoGeometry.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\cs-CZ\DynamoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\de-DE\DynamoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\en-US\DynamoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\es-ES\DynamoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\fr-FR\DynamoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\it-IT\DynamoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ja-JP\DynamoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ko-KR\DynamoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\pl-PL\DynamoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\pt-BR\DynamoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ru-RU\DynamoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\zh-CN\DynamoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\zh-TW\DynamoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\cs-CZ\AdWindows.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\de-DE\AdWindows.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\es-ES\AdWindows.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\fr-FR\AdWindows.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\it-IT\AdWindows.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ja-JP\AdWindows.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ko-KR\AdWindows.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\pl-PL\AdWindows.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\pt-BR\AdWindows.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ru-RU\AdWindows.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\zh-CN\AdWindows.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\zh-TW\AdWindows.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\cs-CZ\ProtoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\de-DE\ProtoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\en-US\ProtoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\es-ES\ProtoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\fr-FR\ProtoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\it-IT\ProtoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ja-JP\ProtoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ko-KR\ProtoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\pl-PL\ProtoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\pt-BR\ProtoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ru-RU\ProtoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\zh-CN\ProtoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\zh-TW\ProtoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\cs-CZ\ProtoAssociative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\de-DE\ProtoAssociative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\en-US\ProtoAssociative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\es-ES\ProtoAssociative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\fr-FR\ProtoAssociative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\it-IT\ProtoAssociative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ja-JP\ProtoAssociative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ko-KR\ProtoAssociative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\pl-PL\ProtoAssociative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\pt-BR\ProtoAssociative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ru-RU\ProtoAssociative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\zh-CN\ProtoAssociative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\zh-TW\ProtoAssociative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\cs-CZ\ProtoImperative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\de-DE\ProtoImperative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\en-US\ProtoImperative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\es-ES\ProtoImperative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\fr-FR\ProtoImperative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\it-IT\ProtoImperative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ja-JP\ProtoImperative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ko-KR\ProtoImperative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\pl-PL\ProtoImperative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\pt-BR\ProtoImperative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\ru-RU\ProtoImperative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\zh-CN\ProtoImperative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\zh-TW\ProtoImperative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\obj\Debug\DesignTechRibbon.csprojResolveAssemblyReference.cache
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\obj\Debug\DesignTechRibbon.g.resources
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\obj\Debug\DesignTechRibbon.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon\DesignTechRibbon\obj\Debug\DesignTechRibbon.pdb
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\DesignTechRibbon.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\DesignTechRibbon.pdb
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\DSCoreNodes.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\ProtoGeometry.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\RevitAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\RevitAPIUI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\DynamoServices.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\DynamoCore.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\LibG.Interface.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\RevitAPIFoundation.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\RevitDBAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\UtilityAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\APIDBAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\GraphicsAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\ElementGroupDBAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\EssentialsDBAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\GeomUtilAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\FamilyDBAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\DetailDBAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\CurtainGridFamilyDBAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\ArrayElemsDBAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\EnergyAnalysisDBAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\BuildingSystemsDBAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\HostObjDBAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\RoomAreaPlanDBAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\SiteDBAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\SculptingDBAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\StructuralDBAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\InterfaceAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\InterfaceUtilAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\RebarDBAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\StructuralAnalysisDBAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\MassingDBAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\AssemblyDBAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\DPartDBAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\NumberingDBAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\PointCloudAccessAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\StairRampDBAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\AnalysisAppsDBAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\DBManagedServices.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\AdWindows.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\RevitAddInUtility.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\APIInterop.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\UIFramework.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\AddInManager.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\RevitUIAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\BuildingSystemsUIAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\DesktopMFCAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\APIUIAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\RevitMFCAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\EssentialsUIAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\DetailUIAPI.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\UIFrameworkServices.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\ProtoCore.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\Greg.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\DynamoUtilities.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\Newtonsoft.Json.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\ProtoScript.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\GraphLayout.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\Analytics.NET.Google.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\ProtoAssociative.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\ProtoImperative.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\DynamoUnits.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\ManagedMC3.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\RestSharp.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\Ionic.Zip.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\CSharpAnalytics.Net45.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\RevitAPI.xml
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\RevitAPIUI.xml
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\cs-CZ\DSCoreNodes.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\de-DE\DSCoreNodes.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\en-US\DSCoreNodes.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\es-ES\DSCoreNodes.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\fr-FR\DSCoreNodes.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\it-IT\DSCoreNodes.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\ja-JP\DSCoreNodes.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\ko-KR\DSCoreNodes.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\pl-PL\DSCoreNodes.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\pt-BR\DSCoreNodes.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\ru-RU\DSCoreNodes.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\zh-CN\DSCoreNodes.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\zh-TW\DSCoreNodes.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\cs-CZ\ProtoGeometry.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\de-DE\ProtoGeometry.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\en-US\ProtoGeometry.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\es-ES\ProtoGeometry.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\fr-FR\ProtoGeometry.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\it-IT\ProtoGeometry.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\ja-JP\ProtoGeometry.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\ko-KR\ProtoGeometry.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\pl-PL\ProtoGeometry.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\pt-BR\ProtoGeometry.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\ru-RU\ProtoGeometry.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\zh-CN\ProtoGeometry.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\zh-TW\ProtoGeometry.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\cs-CZ\DynamoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\de-DE\DynamoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\en-US\DynamoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\es-ES\DynamoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\fr-FR\DynamoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\it-IT\DynamoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\ja-JP\DynamoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\ko-KR\DynamoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\pl-PL\DynamoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\pt-BR\DynamoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\ru-RU\DynamoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\zh-CN\DynamoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\zh-TW\DynamoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\cs-CZ\AdWindows.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\de-DE\AdWindows.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\es-ES\AdWindows.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\fr-FR\AdWindows.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\it-IT\AdWindows.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\ja-JP\AdWindows.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\ko-KR\AdWindows.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\pl-PL\AdWindows.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\pt-BR\AdWindows.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\ru-RU\AdWindows.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\zh-CN\AdWindows.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\zh-TW\AdWindows.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\cs-CZ\ProtoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\de-DE\ProtoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\en-US\ProtoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\es-ES\ProtoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\fr-FR\ProtoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\it-IT\ProtoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\ja-JP\ProtoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\ko-KR\ProtoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\pl-PL\ProtoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\pt-BR\ProtoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\ru-RU\ProtoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\zh-CN\ProtoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\zh-TW\ProtoCore.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\cs-CZ\ProtoAssociative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\de-DE\ProtoAssociative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\en-US\ProtoAssociative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\es-ES\ProtoAssociative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\fr-FR\ProtoAssociative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\it-IT\ProtoAssociative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\ja-JP\ProtoAssociative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\ko-KR\ProtoAssociative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\pl-PL\ProtoAssociative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\pt-BR\ProtoAssociative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\ru-RU\ProtoAssociative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\zh-CN\ProtoAssociative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\zh-TW\ProtoAssociative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\cs-CZ\ProtoImperative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\de-DE\ProtoImperative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\en-US\ProtoImperative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\es-ES\ProtoImperative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\fr-FR\ProtoImperative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\it-IT\ProtoImperative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\ja-JP\ProtoImperative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\ko-KR\ProtoImperative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\pl-PL\ProtoImperative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\pt-BR\ProtoImperative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\ru-RU\ProtoImperative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\zh-CN\ProtoImperative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\bin\Debug\zh-TW\ProtoImperative.resources.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\obj\Debug\DesignTechRibbon.csprojResolveAssemblyReference.cache
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\obj\Debug\DesignTechRibbon.g.resources
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\obj\Debug\DesignTechRibbon.dll
+C:\Users\markt\OneDrive\04 - WIP\Visual Studio\DesignTechRibbon - New\DesignTechRibbon\obj\Debug\DesignTechRibbon.pdb
+D:\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\obj\Debug\DesignTechRibbon.csprojResolveAssemblyReference.cache
+D:\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\obj\Debug\DesignTechRibbon.g.resources
+D:\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\obj\Debug\DesignTechRibbon.dll
+D:\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\obj\Debug\DesignTechRibbon.pdb
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\DesignTechRibbon.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\DesignTechRibbon.pdb
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\RevitAPI.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\RevitAPIUI.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\RevitAPIFoundation.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\RevitDBAPI.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\UtilityAPI.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\APIDBAPI.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\GraphicsAPI.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\ElementGroupDBAPI.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\EssentialsDBAPI.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\GeomUtilAPI.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\FamilyDBAPI.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\DetailDBAPI.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\CurtainGridFamilyDBAPI.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\ArrayElemsDBAPI.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\EnergyAnalysisDBAPI.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\BuildingSystemsDBAPI.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\HostObjDBAPI.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\RoomAreaPlanDBAPI.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\SiteDBAPI.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\SculptingDBAPI.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\StructuralDBAPI.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\InterfaceAPI.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\InterfaceUtilAPI.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\RebarDBAPI.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\StructuralAnalysisDBAPI.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\MassingDBAPI.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\AssemblyDBAPI.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\DPartDBAPI.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\NumberingDBAPI.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\PointCloudAccessAPI.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\StairRampDBAPI.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\AnalysisAppsDBAPI.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\DBManagedServices.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\AdWindows.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\RevitAddInUtility.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\APIInterop.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\UIFramework.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\AddInManager.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\RevitUIAPI.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\BuildingSystemsUIAPI.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\DesktopMFCAPI.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\APIUIAPI.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\RevitMFCAPI.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\EssentialsUIAPI.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\EnergyAnalysisUtilitiesAPI.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\DetailUIAPI.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\UIFrameworkServices.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\ManagedMC3.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\RevitAPI.xml
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\RevitAPIUI.xml
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\cs-CZ\AdWindows.resources.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\de-DE\AdWindows.resources.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\en-US\AdWindows.resources.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\es-ES\AdWindows.resources.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\fr-FR\AdWindows.resources.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\it-IT\AdWindows.resources.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\ja-JP\AdWindows.resources.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\ko-KR\AdWindows.resources.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\pl-PL\AdWindows.resources.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\pt-BR\AdWindows.resources.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\ru-RU\AdWindows.resources.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\zh-CN\AdWindows.resources.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\zh-TW\AdWindows.resources.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\obj\Debug\DesignTechRibbon.csprojResolveAssemblyReference.cache
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\obj\Debug\DesignTechRibbon.g.resources
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\obj\Debug\DesignTechRibbon.csproj.CoreCompileInputs.cache
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\obj\Debug\DesignTechRibbon.dll
+C:\Users\dn\Google Drive\designtech Server\03 Internal Projects\05 Plug-ins\Visual Studio\DesignTechRibbon\DesignTechRibbon\obj\Debug\DesignTechRibbon.pdb
