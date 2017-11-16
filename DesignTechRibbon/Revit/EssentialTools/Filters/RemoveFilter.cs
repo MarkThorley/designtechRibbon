@@ -25,10 +25,13 @@ namespace EssentialTools
             Document doc = uidoc.Document;
 
             RemoveFilter removeFilter = new RemoveFilter(commandData);
+            if(removeFilter.failed)
+            {
+                return Result.Failed;
+            }
             // Invoke the removefilter method
             removeFilter.DeleteUnusedFilters();
-
-
+            
             return Result.Succeeded;
         }
     }
@@ -37,11 +40,12 @@ namespace EssentialTools
     {        
         private ExternalCommandData _commandData;
         private OverrideGraphicSettings _defaultOverrides;
+        internal bool failed = false;
 
-        private static List<ElementId> all = new List<ElementId>();
-        private static List<ElementId> used = new List<ElementId>();
-        private static List<ElementId> unused = new List<ElementId>();
-        private static List<ElementId> unassigned = new List<ElementId>();
+        private static HashSet<ElementId> all = new HashSet<ElementId>();
+        private static HashSet<ElementId> used = new HashSet<ElementId>();
+        private static HashSet<ElementId> unused = new HashSet<ElementId>();
+        private static HashSet<ElementId> unassigned = new HashSet<ElementId>();
         private int removed;
 
         private static UIApplication uiapp;
@@ -73,26 +77,32 @@ namespace EssentialTools
         /// </summary>
         private void Initialize()
         {
+            GetAllFilters();
             GetUsedFilters();
             GetUnusedFilters();
-            GetAllFilters();
         }
         /// <summary>
         /// Delete unused filters main method
         /// </summary>
         public void DeleteUnusedFilters()
         {
-
+            /*
             Dictionary<string, ElementId> store = new Dictionary<string, ElementId>();
-            Dictionary<string, ElementId> storeAll = all.DistinctBy(x => (doc.GetElement(x) as ParameterFilterElement).Name).ToDictionary(x => (doc.GetElement(x) as ParameterFilterElement).Name, x => x);
-            Dictionary<string, ElementId> storeUsed = used.DistinctBy(x => (doc.GetElement(x) as ParameterFilterElement).Name).ToDictionary(x => (doc.GetElement(x) as ParameterFilterElement).Name, x => x);
-            Dictionary<string, ElementId> storeUnused = unused.DistinctBy(x => (doc.GetElement(x) as ParameterFilterElement).Name).ToDictionary(x => (doc.GetElement(x) as ParameterFilterElement).Name, x => x);
-            Dictionary<string, ElementId> storeUnassigned = unassigned.DistinctBy(x => (doc.GetElement(x) as ParameterFilterElement).Name).ToDictionary(x => (doc.GetElement(x) as ParameterFilterElement).Name, x => x);
+            Dictionary<string, ElementId> storeAll = new Dictionary<string, ElementId>();
+            Dictionary<string, ElementId> storeUsed = new Dictionary<string, ElementId>();
+            Dictionary<string, ElementId> storeUnused = new Dictionary<string, ElementId>();
+            Dictionary<string, ElementId> storeUnassigned = new Dictionary<string, ElementId>();
+            */
+            Dictionary<string, ElementId> store = new Dictionary<string, ElementId>();
+            Dictionary<string, ElementId> storeAll = all.ToDictionary(x => (doc.GetElement(x) as ParameterFilterElement).Name, x => x);
+            Dictionary<string, ElementId> storeUsed = used.ToDictionary(x => (doc.GetElement(x) as ParameterFilterElement).Name, x => x);
+            Dictionary<string, ElementId> storeUnused = unused.ToDictionary(x => (doc.GetElement(x) as ParameterFilterElement).Name, x => x);
+            Dictionary<string, ElementId> storeUnassigned = unassigned.ToDictionary(x => (doc.GetElement(x) as ParameterFilterElement).Name, x => x);
             //Dictionary<string, ElementId> storeAll = all.ToDictionary(x => (doc.GetElement(x) as ParameterFilterElement).Name, x => x);
             //Dictionary<string, ElementId> storeUsed = used.ToDictionary(x => (doc.GetElement(x) as ParameterFilterElement).Name, x => x);
             //Dictionary<string, ElementId> storeUnused = unused.ToDictionary(x => (doc.GetElement(x) as ParameterFilterElement).Name, x => x);
             //Dictionary<string, ElementId> storeUnassigned = unassigned.ToDictionary(x => (doc.GetElement(x) as ParameterFilterElement).Name, x => x);
-
+            
             using (FiltersForm form = new FiltersForm(storeAll, storeUsed, storeUnused, storeUnassigned))
             {
                 System.Windows.Forms.DialogResult result = form.ShowDialog();
@@ -110,6 +120,16 @@ namespace EssentialTools
             }
         }
         /// <summary>
+        /// Returns all filters
+        /// </summary>
+        /// <param name="doc"></param>
+        /// <returns></returns>
+        private void GetAllFilters()
+        {
+            FilteredElementCollector collector = new FilteredElementCollector(doc);
+            all = new HashSet<ElementId>(collector.OfClass(typeof(ParameterFilterElement)).ToElementIds().ToList());
+        }
+        /// <summary>
         /// Returns all the used filters in a project
         /// </summary>
         /// <param name="doc"></param>
@@ -117,51 +137,72 @@ namespace EssentialTools
         private void GetUsedFilters()
         {
             FilteredElementCollector collector = new FilteredElementCollector(doc);
-            IList<Element> views = collector.OfClass(typeof(Autodesk.Revit.DB.View)).ToElements();
+            IList<Element> views = collector.OfClass(typeof(Autodesk.Revit.DB.View)).WhereElementIsNotElementType().ToElements();
 
-            foreach (Element el in views)
+            using (AdnRme.ProgressForm bar = new AdnRme.ProgressForm("Getting Filters ..", "Processing {0} out of " + views.Count.ToString() + " views", views.Count))
             {
-                Autodesk.Revit.DB.View v = el as Autodesk.Revit.DB.View;
-                ICollection<ElementId> filterIds;
-                try
-                {
-                    filterIds = v.GetFilters();
-                }
-                catch (AmbiguousMatchException)
-                {
-                    continue;
-                }
-                catch(Autodesk.Revit.Exceptions.InvalidOperationException)
-                {
-                    continue;
-                }
-                foreach (ElementId id in filterIds)
-                {
-                    OverrideGraphicSettings filterOverrides = v.GetFilterOverrides(id);
-                    bool filterVisible = v.GetFilterVisibility(id);
 
-                    if (CompareOverrides(filterOverrides, _defaultOverrides) && filterVisible)
+                foreach (Element el in views)
+                {
+                    Autodesk.Revit.DB.View v = el as Autodesk.Revit.DB.View;
+                    ICollection<ElementId> filterIds;
+                    try
                     {
-                        if (removeFromView)
+                        filterIds = v.GetFilters();
+                    }
+                    catch (AmbiguousMatchException)
+                    {
+                        continue;
+                    }
+                    catch (Autodesk.Revit.Exceptions.InvalidOperationException)
+                    {
+                        continue;
+                    }
+                    foreach (ElementId id in filterIds)
+                    {
+                        if (bar.getAbortFlag())
                         {
-                            using (Transaction t = new Transaction(doc, "Remove filter"))
-                            {
-                                t.Start();
-                                v.RemoveFilter(id);
-                                t.Commit();
-                            }
-                            removed++;
+                            failed = true;
+                            return;
+                        }
+                        // That should speed it up
+                        // But it didn't
+                        if (used.Contains(id))
+                        {
                             continue;
+                        }
+                        OverrideGraphicSettings filterOverrides = v.GetFilterOverrides(id);
+                        bool filterVisible = v.GetFilterVisibility(id);
+
+                        if (CompareOverrides(filterOverrides, _defaultOverrides) && filterVisible)
+                        {
+                            unassigned.Add(id);
                         }
                         else
                         {
-                            unused.Add(id);
+                            used.Add(id);
                         }
                     }
-                    used.Add(id);
+                    bar.Increment();
                 }
             }
-            if (removeFromView) TaskDialog.Show("Unused on Views Filters", "Unused filters on views" + Environment.NewLine + removed.ToString() + " filters removed.");
+            unassigned = new HashSet<ElementId>(unassigned.ToList().Except(used.ToList()));
+        }
+        /// <summary>
+        /// Returns the unused filters in a projects as all filters minus used filters
+        /// </summary>
+        /// <param name="doc"></param>
+        /// <returns></returns>
+        private void GetUnusedFilters()
+        {
+            FilteredElementCollector collector = new FilteredElementCollector(doc);
+            List<ElementId> exclude = new List<ElementId>();
+            exclude.AddRange(used.ToList());
+            exclude.AddRange(unassigned.ToList());
+            if(exclude.Count > 0)
+            {
+                unused = new HashSet<ElementId>(collector.OfClass(typeof(ParameterFilterElement)).Excluding(exclude).ToElementIds().ToList());
+            }
         }
         /// <summary>
         /// If false, the filter is different then a default one so it is in use
@@ -172,41 +213,20 @@ namespace EssentialTools
         private bool CompareOverrides(OverrideGraphicSettings o1, OverrideGraphicSettings o2)
         {
             if (o1.CutFillColor.IsValid) return false;
-            if (o1.CutFillPatternId != o2.CutFillPatternId) return false;
             if (o1.CutLineColor.IsValid) return false;
+            if (o1.Halftone) return false;
+            if (o1.ProjectionFillColor.IsValid) return false;
+            if (o1.ProjectionLineColor.IsValid) return false;
+            if (o1.CutFillPatternId != o2.CutFillPatternId) return false;
             if (o1.CutLinePatternId != o2.CutLinePatternId) return false;
             if (o1.DetailLevel != o2.DetailLevel) return false;
-            if (o1.Halftone) return false;
             if (o1.IsCutFillPatternVisible != o2.IsCutFillPatternVisible) return false;
             if (o1.IsProjectionFillPatternVisible != o2.IsProjectionFillPatternVisible) return false;
-            if (o1.ProjectionFillColor.IsValid) return false;
             if (o1.ProjectionFillPatternId != o2.ProjectionFillPatternId) return false;
-            if (o1.ProjectionLineColor.IsValid) return false;
             if (o1.ProjectionLinePatternId != o2.ProjectionLinePatternId) return false;
             if (o1.ProjectionLineWeight != o2.ProjectionLineWeight) return false;
             if (o1.Transparency != o2.Transparency) return false;
             return true;
-        }
-        /// <summary>
-        /// Returns the unused filters in a projects as all filters minus used filters
-        /// </summary>
-        /// <param name="doc"></param>
-        /// <returns></returns>
-        private void GetUnusedFilters()
-        {
-            FilteredElementCollector collector = new FilteredElementCollector(doc);
-            unassigned = collector.OfClass(typeof(ParameterFilterElement)).Excluding(used).ToElementIds().ToList();
-            if (unused.Count > 0) unassigned = unassigned.Except(unused).ToList();
-        }
-        /// <summary>
-        /// Returns all filters
-        /// </summary>
-        /// <param name="doc"></param>
-        /// <returns></returns>
-        private void GetAllFilters()
-        {
-            FilteredElementCollector collector = new FilteredElementCollector(doc);
-            all = collector.OfClass(typeof(ParameterFilterElement)).ToElementIds().ToList();
         }
     }
 }

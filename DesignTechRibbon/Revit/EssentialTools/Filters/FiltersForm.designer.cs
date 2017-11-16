@@ -28,9 +28,11 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FiltersForm));
             this.designtechLogo = new System.Windows.Forms.PictureBox();
             this.mainPanel = new System.Windows.Forms.GroupBox();
+            this.totalLbl = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.radioUnassigned = new System.Windows.Forms.RadioButton();
             this.radioUnused = new System.Windows.Forms.RadioButton();
@@ -42,9 +44,12 @@
             this.cancelBtn = new System.Windows.Forms.Button();
             this.delBtn = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
+            this.toolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             ((System.ComponentModel.ISupportInitialize)(this.designtechLogo)).BeginInit();
             this.mainPanel.SuspendLayout();
             this.panel1.SuspendLayout();
+            this.contextMenuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // designtechLogo
@@ -65,6 +70,7 @@
             this.mainPanel.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
+            this.mainPanel.Controls.Add(this.totalLbl);
             this.mainPanel.Controls.Add(this.label1);
             this.mainPanel.Controls.Add(this.radioUnassigned);
             this.mainPanel.Controls.Add(this.radioUnused);
@@ -76,10 +82,21 @@
             this.mainPanel.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.mainPanel.Location = new System.Drawing.Point(12, 12);
             this.mainPanel.Name = "mainPanel";
-            this.mainPanel.Size = new System.Drawing.Size(446, 231);
+            this.mainPanel.Size = new System.Drawing.Size(446, 243);
             this.mainPanel.TabIndex = 0;
             this.mainPanel.TabStop = false;
             this.mainPanel.Text = "Filters";
+            // 
+            // totalLbl
+            // 
+            this.totalLbl.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.totalLbl.AutoSize = true;
+            this.totalLbl.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.totalLbl.Location = new System.Drawing.Point(6, 223);
+            this.totalLbl.Name = "totalLbl";
+            this.totalLbl.Size = new System.Drawing.Size(34, 13);
+            this.totalLbl.TabIndex = 10;
+            this.totalLbl.Text = "Total:";
             // 
             // label1
             // 
@@ -95,13 +112,12 @@
             // 
             this.radioUnassigned.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.radioUnassigned.AutoSize = true;
             this.radioUnassigned.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.radioUnassigned.Location = new System.Drawing.Point(290, 110);
+            this.radioUnassigned.Location = new System.Drawing.Point(347, 110);
             this.radioUnassigned.Name = "radioUnassigned";
             this.radioUnassigned.Size = new System.Drawing.Size(86, 17);
             this.radioUnassigned.TabIndex = 8;
-            this.radioUnassigned.Text = "Unassigned";
+            this.radioUnassigned.Text = "Unassigned.";
             this.radioUnassigned.UseVisualStyleBackColor = true;
             this.radioUnassigned.CheckedChanged += new System.EventHandler(this.radio_CheckedChanged);
             // 
@@ -109,15 +125,14 @@
             // 
             this.radioUnused.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.radioUnused.AutoSize = true;
             this.radioUnused.Checked = true;
             this.radioUnused.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.radioUnused.Location = new System.Drawing.Point(290, 87);
+            this.radioUnused.Location = new System.Drawing.Point(347, 87);
             this.radioUnused.Name = "radioUnused";
             this.radioUnused.Size = new System.Drawing.Size(65, 17);
             this.radioUnused.TabIndex = 7;
             this.radioUnused.TabStop = true;
-            this.radioUnused.Text = "Unused";
+            this.radioUnused.Text = "Unused.";
             this.radioUnused.UseVisualStyleBackColor = true;
             this.radioUnused.CheckedChanged += new System.EventHandler(this.radio_CheckedChanged);
             // 
@@ -125,7 +140,7 @@
             // 
             this.radioUsed.AutoSize = true;
             this.radioUsed.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.radioUsed.Location = new System.Drawing.Point(382, 110);
+            this.radioUsed.Location = new System.Drawing.Point(290, 110);
             this.radioUsed.Name = "radioUsed";
             this.radioUsed.Size = new System.Drawing.Size(51, 17);
             this.radioUsed.TabIndex = 6;
@@ -137,7 +152,7 @@
             // 
             this.radioAll.AutoSize = true;
             this.radioAll.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.radioAll.Location = new System.Drawing.Point(382, 87);
+            this.radioAll.Location = new System.Drawing.Point(290, 87);
             this.radioAll.Name = "radioAll";
             this.radioAll.Size = new System.Drawing.Size(38, 17);
             this.radioAll.TabIndex = 5;
@@ -168,12 +183,13 @@
             this.SrchBox.Text = "Contains ..";
             this.SrchBox.MouseClick += new System.Windows.Forms.MouseEventHandler(this.SrchBox_MouseClick);
             this.SrchBox.TextChanged += new System.EventHandler(this.SrchBox_TextChanged);
-            this.SrchBox.LostFocus += new System.EventHandler(this.SrchBox_Leave);
+            this.SrchBox.Leave += new System.EventHandler(this.SrchBox_Leave);
             // 
             // filtersList
             // 
             this.filtersList.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left)));
+            this.filtersList.ContextMenuStrip = this.contextMenuStrip1;
             this.filtersList.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.filtersList.FormattingEnabled = true;
             this.filtersList.Location = new System.Drawing.Point(8, 23);
@@ -217,6 +233,20 @@
             this.panel1.Size = new System.Drawing.Size(470, 313);
             this.panel1.TabIndex = 0;
             // 
+            // contextMenuStrip1
+            // 
+            this.contextMenuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.toolStripMenuItem1});
+            this.contextMenuStrip1.Name = "contextMenuStrip1";
+            this.contextMenuStrip1.Size = new System.Drawing.Size(153, 48);
+            // 
+            // toolStripMenuItem1
+            // 
+            this.toolStripMenuItem1.Name = "toolStripMenuItem1";
+            this.toolStripMenuItem1.Size = new System.Drawing.Size(152, 22);
+            this.toolStripMenuItem1.Text = "Select All";
+            this.toolStripMenuItem1.Click += new System.EventHandler(this.toolStripMenuItem1_Click);
+            // 
             // FiltersForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(96F, 96F);
@@ -234,6 +264,7 @@
             this.mainPanel.ResumeLayout(false);
             this.mainPanel.PerformLayout();
             this.panel1.ResumeLayout(false);
+            this.contextMenuStrip1.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -253,5 +284,8 @@
         private System.Windows.Forms.RadioButton radioUsed;
         private System.Windows.Forms.RadioButton radioAll;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label totalLbl;
+        private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;
+        private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem1;
     }
 }

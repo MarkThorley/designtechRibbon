@@ -26,6 +26,8 @@ namespace EssentialTools
             this.currentStore = store;
             var registrationsList = store.Keys.ToArray();
             templateList.Items.AddRange(registrationsList);
+            totalLbl.Text = registrationsList.Count().ToString();
+            totalLbl.Update();
         }
 
         #region Methods
@@ -36,7 +38,7 @@ namespace EssentialTools
         /// <param name="e"></param>
         private void SrchBox_TextChanged(object sender, EventArgs e)
         {
-            if(!string.Equals("Contains ..", SrchBox.Text))
+            if (!string.Equals("Contains ..", SrchBox.Text))
             {
                 SrchBox.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
                 SrchBox.ForeColor = System.Drawing.SystemColors.WindowText;
@@ -59,6 +61,8 @@ namespace EssentialTools
                     templateList.Items.AddRange(registrationsList.ToArray()); //there is no any filter string, so add all data we have in Store
 
                 templateList.EndUpdate();
+                totalLbl.Text = templateList.Items.Count.ToString();
+                totalLbl.Update();
             }
         }
         /// <summary>
@@ -110,6 +114,18 @@ namespace EssentialTools
             templateList.Items.Clear();
             templateList.Items.AddRange(registrationsList.ToArray());
             templateList.EndUpdate();
+
+            totalLbl.Text = registrationsList.Count().ToString();
+            totalLbl.Update();
+        }
+        private void toolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            templateList.BeginUpdate();
+
+            for (int i = 0; i < templateList.Items.Count; i++)
+                templateList.SetSelected(i, true);
+
+            templateList.EndUpdate();
         }
         #endregion
 
@@ -156,7 +172,7 @@ namespace EssentialTools
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
-        
+
         private void designtechLogo_Click(object sender, EventArgs e)
         {
             ProcessStartInfo designtechWeb = new ProcessStartInfo("http://designtech.io/");

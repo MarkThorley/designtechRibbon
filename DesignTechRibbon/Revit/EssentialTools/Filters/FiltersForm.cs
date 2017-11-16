@@ -37,6 +37,8 @@ namespace EssentialTools
             this.currentStore = storeUnused;
             var registrationsList = currentStore.Keys.ToArray();
             filtersList.Items.AddRange(registrationsList);
+            totalLbl.Text = registrationsList.Count().ToString();
+            totalLbl.Update();
             InitialiseRadioButtons();
         }
 
@@ -87,6 +89,8 @@ namespace EssentialTools
                     filtersList.Items.AddRange(registrationsList.ToArray()); //there is no any filter string, so add all data we have in Store
 
                 filtersList.EndUpdate();
+                totalLbl.Text = filtersList.Items.Count.ToString();
+                totalLbl.Update();
             }
         }
         /// <summary>
@@ -114,6 +118,7 @@ namespace EssentialTools
                 box.Text = "Contains ..";
                 box.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
                 box.ForeColor = System.Drawing.SystemColors.InactiveCaption;
+                box.Update();
             }
         }
 
@@ -136,10 +141,27 @@ namespace EssentialTools
                 filtersList.Items.Clear();
                 filtersList.Items.AddRange(registrationsList.ToArray());
                 filtersList.EndUpdate();
+                totalLbl.Text = registrationsList.Count().ToString();
+                totalLbl.Update();
+                
+                
+                SrchBox.Text = "Contains ..";
+                SrchBox.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+                SrchBox.ForeColor = System.Drawing.SystemColors.InactiveCaption;
+                SrchBox.Update();
 
                 lockIt = false;
                 return;
             }
+        }
+        private void toolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            filtersList.BeginUpdate();
+
+            for (int i = 0; i < filtersList.Items.Count; i++)
+                filtersList.SetSelected(i, true);
+
+            filtersList.EndUpdate();
         }
         #endregion
 
