@@ -9,6 +9,21 @@ using System.Threading.Tasks;
 
 namespace EssentialTools
 {
+    public static class Utils
+    {
+        public static IEnumerable<TSource> DistinctBy<TSource, TKey>
+        (this IEnumerable<TSource> source, Func<TSource, TKey> keySelector)
+        {
+            HashSet<TKey> seenKeys = new HashSet<TKey>();
+            foreach (TSource element in source)
+            {
+                if (seenKeys.Add(keySelector(element)))
+                {
+                    yield return element;
+                }
+            }
+        }
+    }
     [Transaction(TransactionMode.Manual)]
     public class CommandRemoveTemplates : IExternalCommand
     {
@@ -53,8 +68,10 @@ namespace EssentialTools
             List<ElementId> allTemplateIds = collector.OfClass(typeof(View)).Cast<View>().Where(x => x.IsTemplate).Select(x => x.Id).ToList();
             List<ElementId> unusedTemplateIds = allTemplateIds.Except(usedTemplateIds).ToList();
 
-            Dictionary<string, ElementId> store = unusedTemplateIds.ToDictionary(x => (doc.GetElement(x) as View).Name, x => x);
-            Dictionary<string, ElementId> storeAll = allTemplateIds.ToDictionary(x => (doc.GetElement(x) as View).Name, x => x);
+            Dictionary<string, ElementId> store = unusedTemplateIds.DistinctBy(x => (doc.GetElement(x) as View).Name).ToDictionary(x => (doc.GetElement(x) as View).Name, x => x);
+            Dictionary<string, ElementId> storeAll = allTemplateIds.DistinctBy(x => (doc.GetElement(x) as View).Name).ToDictionary(x => (doc.GetElement(x) as View).Name, x => x);
+            //Dictionary<string, ElementId> store = unusedTemplateIds.ToDictionary(x => (doc.GetElement(x) as View).Name, x => x);
+            //Dictionary<string, ElementId> storeAll = allTemplateIds.ToDictionary(x => (doc.GetElement(x) as View).Name, x => x);
 
             using (TemplatesForm form = new TemplatesForm(store, storeAll))
             {

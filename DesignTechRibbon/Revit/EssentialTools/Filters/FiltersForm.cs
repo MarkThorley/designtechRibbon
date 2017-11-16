@@ -138,6 +138,7 @@ namespace EssentialTools
                 filtersList.EndUpdate();
 
                 lockIt = false;
+                return;
             }
         }
         #endregion

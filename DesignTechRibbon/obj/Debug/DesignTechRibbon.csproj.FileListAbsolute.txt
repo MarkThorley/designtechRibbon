@@ -580,3 +580,13 @@ C:\Users\dn\source\repos\designtechRibbon\DesignTechRibbon\obj\Debug\DesignTechR
 C:\Users\dn\source\repos\designtechRibbon\DesignTechRibbon\obj\Debug\EssentialTools.TemplatesForm.resources
 C:\Users\dn\source\repos\designtechRibbon\DesignTechRibbon\obj\Debug\DesignTechRibbon.csproj.GenerateResource.Cache
 C:\Users\dn\source\repos\designtechRibbon\DesignTechRibbon\obj\Debug\EssentialTools.FiltersForm.resources
+C:\Users\didon\OneDrive\Documents\Visual Studio 2015\Projects\designtechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\DesignTechRibbon.dll
+C:\Users\didon\OneDrive\Documents\Visual Studio 2015\Projects\designtechRibbon\DesignTechRibbon\bin\Debug\designtech.bundle\DesignTechRibbon.pdb
+C:\Users\didon\OneDrive\Documents\Visual Studio 2015\Projects\designtechRibbon\DesignTechRibbon\obj\Debug\DesignTechRibbon.csprojResolveAssemblyReference.cache
+C:\Users\didon\OneDrive\Documents\Visual Studio 2015\Projects\designtechRibbon\DesignTechRibbon\obj\Debug\DesignTechRibbon.g.resources
+C:\Users\didon\OneDrive\Documents\Visual Studio 2015\Projects\designtechRibbon\DesignTechRibbon\obj\Debug\AdnRme.ProgressForm.resources
+C:\Users\didon\OneDrive\Documents\Visual Studio 2015\Projects\designtechRibbon\DesignTechRibbon\obj\Debug\EssentialTools.FiltersForm.resources
+C:\Users\didon\OneDrive\Documents\Visual Studio 2015\Projects\designtechRibbon\DesignTechRibbon\obj\Debug\EssentialTools.TemplatesForm.resources
+C:\Users\didon\OneDrive\Documents\Visual Studio 2015\Projects\designtechRibbon\DesignTechRibbon\obj\Debug\DesignTechRibbon.csproj.GenerateResource.Cache
+C:\Users\didon\OneDrive\Documents\Visual Studio 2015\Projects\designtechRibbon\DesignTechRibbon\obj\Debug\DesignTechRibbon.dll
+C:\Users\didon\OneDrive\Documents\Visual Studio 2015\Projects\designtechRibbon\DesignTechRibbon\obj\Debug\DesignTechRibbon.pdb

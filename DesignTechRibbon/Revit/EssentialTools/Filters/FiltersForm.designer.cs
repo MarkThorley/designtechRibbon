@@ -168,7 +168,7 @@
             this.SrchBox.Text = "Contains ..";
             this.SrchBox.MouseClick += new System.Windows.Forms.MouseEventHandler(this.SrchBox_MouseClick);
             this.SrchBox.TextChanged += new System.EventHandler(this.SrchBox_TextChanged);
-            this.SrchBox.MouseLeave += new System.EventHandler(this.SrchBox_Leave);
+            this.SrchBox.LostFocus += new System.EventHandler(this.SrchBox_Leave);
             // 
             // filtersList
             // 

@@ -82,11 +82,16 @@ namespace EssentialTools
         /// </summary>
         public void DeleteUnusedFilters()
         {
+
             Dictionary<string, ElementId> store = new Dictionary<string, ElementId>();
-            Dictionary<string, ElementId> storeAll = all.ToDictionary(x => (doc.GetElement(x) as ParameterFilterElement).Name, x => x);
-            Dictionary<string, ElementId> storeUsed = used.ToDictionary(x => (doc.GetElement(x) as ParameterFilterElement).Name, x => x);
-            Dictionary<string, ElementId> storeUnused = unused.ToDictionary(x => (doc.GetElement(x) as ParameterFilterElement).Name, x => x);
-            Dictionary<string, ElementId> storeUnassigned = unassigned.ToDictionary(x => (doc.GetElement(x) as ParameterFilterElement).Name, x => x);
+            Dictionary<string, ElementId> storeAll = all.DistinctBy(x => (doc.GetElement(x) as ParameterFilterElement).Name).ToDictionary(x => (doc.GetElement(x) as ParameterFilterElement).Name, x => x);
+            Dictionary<string, ElementId> storeUsed = used.DistinctBy(x => (doc.GetElement(x) as ParameterFilterElement).Name).ToDictionary(x => (doc.GetElement(x) as ParameterFilterElement).Name, x => x);
+            Dictionary<string, ElementId> storeUnused = unused.DistinctBy(x => (doc.GetElement(x) as ParameterFilterElement).Name).ToDictionary(x => (doc.GetElement(x) as ParameterFilterElement).Name, x => x);
+            Dictionary<string, ElementId> storeUnassigned = unassigned.DistinctBy(x => (doc.GetElement(x) as ParameterFilterElement).Name).ToDictionary(x => (doc.GetElement(x) as ParameterFilterElement).Name, x => x);
+            //Dictionary<string, ElementId> storeAll = all.ToDictionary(x => (doc.GetElement(x) as ParameterFilterElement).Name, x => x);
+            //Dictionary<string, ElementId> storeUsed = used.ToDictionary(x => (doc.GetElement(x) as ParameterFilterElement).Name, x => x);
+            //Dictionary<string, ElementId> storeUnused = unused.ToDictionary(x => (doc.GetElement(x) as ParameterFilterElement).Name, x => x);
+            //Dictionary<string, ElementId> storeUnassigned = unassigned.ToDictionary(x => (doc.GetElement(x) as ParameterFilterElement).Name, x => x);
 
             using (FiltersForm form = new FiltersForm(storeAll, storeUsed, storeUnused, storeUnassigned))
             {
